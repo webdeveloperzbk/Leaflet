@@ -187,7 +187,7 @@
     "file-entry-cache": "^8.0.0",
     "fill-range": "^7.1.1",
     "finalhandler": "^1.1.2",
-    "find-up": "^5.0.0",
+    "find-up": "^7.0.0",
     "flat": "^5.0.2",
     "flat-cache": "^4.0.1",
     "flatted": "^3.3.1",
