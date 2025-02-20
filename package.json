@@ -1,6 +1,6 @@
 {
   "name": "@webdeveloperzbk/leaflet",
-  "version": "1.9.5",
+  "version": "1.0.0",
   "homepage": "https://mosreg.ru/",
   "description": "JavaScript library for mobile-friendly interactive maps",
   "devDependencies": {
