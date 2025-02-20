@@ -277,7 +277,7 @@
     "log4js": "^6.9.1",
     "loupe": "^3.1.1",
     "lru-cache": "^5.1.1",
-    "make-dir": "^4.0.0",
+    "make-dir": "^5.0.0",
     "markdown-it": "^11.0.1",
     "mdurl": "^1.0.1",
     "media-typer": "^0.3.0",
