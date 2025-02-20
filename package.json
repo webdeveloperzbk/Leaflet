@@ -382,7 +382,7 @@
     "supports-preserve-symlinks-flag": "^1.0.0",
     "text-table": "^0.2.0",
     "tmp": "^0.2.3",
-    "to-fast-properties": "^2.0.0",
+    "to-fast-properties": "^4.0.0",
     "to-regex-range": "^5.0.1",
     "toidentifier": "^1.0.1",
     "toposort": "^2.0.2",
