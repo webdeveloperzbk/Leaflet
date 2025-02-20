@@ -155,7 +155,7 @@
     "electron-to-chromium": "^1.5.2",
     "emoji-regex": "^10.3.0",
     "encodeurl": "^1.0.2",
-    "engine.io": "^6.5.5",
+    "engine.io": "^6.6.4",
     "engine.io-parser": "^5.2.3",
     "ent": "^2.2.1",
     "entities": "^2.0.3",
