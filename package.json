@@ -150,7 +150,7 @@
     "dir-glob": "^3.0.1",
     "doctrine": "^3.0.0",
     "dom-serialize": "^2.2.1",
-    "duplexer": "^0.1.1",
+    "duplexer": "^0.1.2",
     "ee-first": "^1.1.1",
     "electron-to-chromium": "^1.5.2",
     "emoji-regex": "^10.3.0",
