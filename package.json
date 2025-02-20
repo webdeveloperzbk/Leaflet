@@ -132,7 +132,7 @@
     "core-js-pure": "^3.37.1",
     "cors": "^2.8.5",
     "corser": "^2.0.1",
-    "cosmiconfig": "^8.3.6",
+    "cosmiconfig": "^9.0.0",
     "cross-spawn": "^7.0.3",
     "custom-event": "^1.0.1",
     "date-format": "^4.0.14",
