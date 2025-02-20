@@ -136,7 +136,7 @@
     "cross-spawn": "^7.0.3",
     "custom-event": "^1.0.1",
     "date-format": "^4.0.14",
-    "debug": "^4.3.5",
+    "debug": "^4.4.0",
     "decamelize": "^4.0.0",
     "deep-eql": "^5.0.2",
     "deep-is": "^0.1.4",
