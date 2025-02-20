@@ -240,7 +240,7 @@
     "is-plain-obj": "^2.1.0",
     "is-regexp": "^2.1.0",
     "is-retry-allowed": "^2.2.0",
-    "is-stream": "^3.0.0",
+    "is-stream": "^4.0.1",
     "is-unicode-supported": "^0.1.0",
     "is-wsl": "^2.2.0",
     "isbinaryfile": "^4.0.10",
