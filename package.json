@@ -137,7 +137,7 @@
     "custom-event": "^1.0.1",
     "date-format": "^4.0.14",
     "debug": "^4.3.5",
-    "decamelize": "^4.0.0",
+    "decamelize": "^6.0.0",
     "deep-eql": "^5.0.2",
     "deep-is": "^0.1.4",
     "defaults": "^1.0.4",
