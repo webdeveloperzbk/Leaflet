@@ -140,7 +140,7 @@
     "decamelize": "^4.0.0",
     "deep-eql": "^5.0.2",
     "deep-is": "^0.1.4",
-    "defaults": "^1.0.4",
+    "defaults": "^3.0.0",
     "define-data-property": "^1.1.4",
     "delayed-stream": "^1.0.0",
     "depd": "^2.0.0",
