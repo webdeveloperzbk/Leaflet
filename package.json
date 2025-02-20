@@ -116,7 +116,7 @@
     "cli-truncate": "^4.0.0",
     "cliui": "^7.0.4",
     "clone": "^1.0.4",
-    "clone-regexp": "^2.2.0",
+    "clone-regexp": "^3.0.0",
     "color-convert": "^2.0.1",
     "color-name": "^1.1.4",
     "colorette": "^2.0.20",
