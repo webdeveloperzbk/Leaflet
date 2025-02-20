@@ -238,7 +238,7 @@
     "is-number": "^7.0.0",
     "is-path-inside": "^3.0.3",
     "is-plain-obj": "^2.1.0",
-    "is-regexp": "^2.1.0",
+    "is-regexp": "^3.1.0",
     "is-retry-allowed": "^2.2.0",
     "is-stream": "^3.0.0",
     "is-unicode-supported": "^0.1.0",
