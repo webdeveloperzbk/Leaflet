@@ -409,7 +409,7 @@
     "which": "^2.0.2",
     "word-wrap": "^1.2.5",
     "wordwrap": "^1.0.0",
-    "workerpool": "^6.5.1",
+    "workerpool": "^9.2.0",
     "wrap-ansi": "^9.0.0",
     "wrappy": "^1.0.2",
     "ws": "^8.17.1",
