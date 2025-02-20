@@ -339,7 +339,7 @@
     "raw-body": "^2.5.2",
     "readdirp": "^3.6.0",
     "regenerate": "^1.4.2",
-    "regenerate-unicode-properties": "^8.2.0",
+    "regenerate-unicode-properties": "^10.2.0",
     "regenerator-runtime": "^0.14.1",
     "require-directory": "^2.1.1",
     "requires-port": "^1.0.0",
