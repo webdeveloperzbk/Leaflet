@@ -124,7 +124,7 @@
     "combined-stream": "^1.0.8",
     "commander": "^11.1.0",
     "comment-patterns": "^0.11.0",
-    "concat-map": "^0.0.1",
+    "concat-map": "^0.0.2",
     "connect": "^3.7.0",
     "content-type": "^1.0.5",
     "convert-source-map": "^2.0.0",
