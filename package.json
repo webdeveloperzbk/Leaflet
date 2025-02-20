@@ -111,7 +111,7 @@
     "caniuse-lite": "^1.0.30001643",
     "chalk": "^4.1.2",
     "check-error": "^2.1.1",
-    "chokidar": "^3.6.0",
+    "chokidar": "^4.0.3",
     "cli-cursor": "^5.0.0",
     "cli-truncate": "^4.0.0",
     "cliui": "^7.0.4",
