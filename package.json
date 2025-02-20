@@ -205,7 +205,7 @@
     "get-tsconfig": "^4.7.6",
     "glob": "^7.2.3",
     "glob-parent": "^6.0.2",
-    "globals": "^14.0.0",
+    "globals": "^16.0.0",
     "globby": "^11.1.0",
     "gopd": "^1.0.1",
     "graceful-fs": "^4.2.11",
