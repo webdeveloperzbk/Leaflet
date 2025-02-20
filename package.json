@@ -336,7 +336,7 @@
     "quotemeta": "^0.0.0",
     "randombytes": "^2.1.0",
     "range-parser": "^1.2.1",
-    "raw-body": "^2.5.2",
+    "raw-body": "^3.0.0",
     "readdirp": "^3.6.0",
     "regenerate": "^1.4.2",
     "regenerate-unicode-properties": "^8.2.0",
