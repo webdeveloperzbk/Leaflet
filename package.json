@@ -244,7 +244,7 @@
     "is-unicode-supported": "^0.1.0",
     "is-wsl": "^2.2.0",
     "isbinaryfile": "^4.0.10",
-    "isexe": "^2.0.0",
+    "isexe": "^3.1.1",
     "istanbul-lib-coverage": "^3.2.2",
     "istanbul-lib-instrument": "^5.2.1",
     "istanbul-lib-report": "^3.0.1",
