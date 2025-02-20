@@ -89,7 +89,7 @@
     "argparse": "^2.0.1",
     "array-union": "^2.1.0",
     "assertion-error": "^2.0.1",
-    "async": "^2.6.4",
+    "async": "^3.2.6",
     "asynckit": "^0.4.0",
     "axios": "^1.7.4",
     "axios-retry": "^4.5.0",
