@@ -214,7 +214,7 @@
     "has-flag": "^4.0.0",
     "has-property-descriptors": "^1.0.2",
     "has-proto": "^1.0.3",
-    "has-symbols": "^1.0.3",
+    "has-symbols": "^1.1.0",
     "hasown": "^2.0.2",
     "he": "^1.2.0",
     "html-encoding-sniffer": "^3.0.0",
