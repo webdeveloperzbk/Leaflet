@@ -395,7 +395,7 @@
     "ua-parser-js": "^0.7.38",
     "uc.micro": "^1.0.6",
     "undici-types": "^5.26.5",
-    "union": "^0.5.0",
+    "union": "^0.6.0",
     "universalify": "^0.1.2",
     "unpipe": "^1.0.0",
     "update-browserslist-db": "^1.1.0",
