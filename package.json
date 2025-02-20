@@ -118,7 +118,7 @@
     "clone": "^1.0.4",
     "clone-regexp": "^2.2.0",
     "color-convert": "^2.0.1",
-    "color-name": "^1.1.4",
+    "color-name": "^2.0.0",
     "colorette": "^2.0.20",
     "columnify": "^1.6.0",
     "combined-stream": "^1.0.8",
