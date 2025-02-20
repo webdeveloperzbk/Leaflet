@@ -203,7 +203,7 @@
     "get-intrinsic": "^1.2.4",
     "get-stream": "^8.0.1",
     "get-tsconfig": "^4.7.6",
-    "glob": "^7.2.3",
+    "glob": "^11.0.1",
     "glob-parent": "^6.0.2",
     "globals": "^14.0.0",
     "globby": "^11.1.0",
