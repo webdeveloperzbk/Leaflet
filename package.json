@@ -211,7 +211,7 @@
     "graceful-fs": "^4.2.11",
     "gzip-size": "^6.0.0",
     "handlebars": "^4.7.8",
-    "has-flag": "^4.0.0",
+    "has-flag": "^5.0.1",
     "has-property-descriptors": "^1.0.2",
     "has-proto": "^1.0.3",
     "has-symbols": "^1.0.3",
