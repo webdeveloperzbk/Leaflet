@@ -416,7 +416,7 @@
     "xregexp": "^4.4.1",
     "y18n": "^5.0.8",
     "yallist": "^3.1.1",
-    "yargs": "^16.2.0",
+    "yargs": "^17.7.2",
     "yargs-parser": "^20.2.9",
     "yargs-unparser": "^2.0.0",
     "yocto-queue": "^0.1.0",
