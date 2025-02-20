@@ -173,7 +173,7 @@
     "esquery": "^1.6.0",
     "esrecurse": "^4.3.0",
     "estraverse": "^5.3.0",
-    "estree-walker": "^2.0.2",
+    "estree-walker": "^3.0.3",
     "esutils": "^2.0.3",
     "eventemitter3": "^4.0.7",
     "execa": "^8.0.1",
