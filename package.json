@@ -184,7 +184,7 @@
     "fast-json-stable-stringify": "^2.1.0",
     "fast-levenshtein": "^2.0.6",
     "fastq": "^1.17.1",
-    "file-entry-cache": "^8.0.0",
+    "file-entry-cache": "^10.0.6",
     "fill-range": "^7.1.1",
     "finalhandler": "^1.1.2",
     "find-up": "^5.0.0",
