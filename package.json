@@ -242,7 +242,7 @@
     "is-retry-allowed": "^2.2.0",
     "is-stream": "^3.0.0",
     "is-unicode-supported": "^0.1.0",
-    "is-wsl": "^2.2.0",
+    "is-wsl": "^3.1.0",
     "isbinaryfile": "^4.0.10",
     "isexe": "^2.0.0",
     "istanbul-lib-coverage": "^3.2.2",
